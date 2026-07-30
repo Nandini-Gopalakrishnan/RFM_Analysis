@@ -1,20 +1,20 @@
-# 📊 Customer Segmentation using RFM Analysis
+#  Customer Segmentation using RFM Analysis
 
 An end-to-end customer segmentation project that uses **Python**, **MySQL**, and **Power BI** to identify high-value customers and generate actionable business insights using the **RFM (Recency, Frequency, Monetary)** framework.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer segmentation helps businesses understand customer purchasing behavior and create personalized marketing strategies.
 
-In this project, I analyzed an online retail dataset and built a complete analytics pipeline—from data cleaning and transformation to customer segmentation and dashboard visualization.
+In this project, I analyzed an online retail dataset and built a complete analytics pipeline, from data cleaning and transformation to customer segmentation and dashboard visualization.
 
 Using the RFM model, customers were classified into six business-friendly segments to support customer retention and targeted marketing decisions.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Online retail businesses often have thousands of customers with varying purchasing behaviors. Treating every customer the same can result in ineffective marketing campaigns, lower customer retention, and missed revenue opportunities.
 
@@ -22,7 +22,7 @@ This project addresses this challenge by using **RFM Analysis** to identify valu
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Clean and prepare transactional retail data
 - Calculate Recency, Frequency, and Monetary (RFM) metrics
@@ -32,7 +32,7 @@ This project addresses this challenge by using **RFM Analysis** to identify valu
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python (Pandas)** – Data Cleaning & Transformation
 - **MySQL** – RFM Analysis & Customer Segmentation
@@ -41,7 +41,7 @@ This project addresses this challenge by using **RFM Analysis** to identify valu
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Dataset:** Online Retail Dataset
 
@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 > *(Insert your Project Architecture image here)*
 
@@ -80,7 +80,7 @@ Example:
 
 ---
 
-## 🧹 Data Cleaning (Python)
+##  Data Cleaning (Python)
 
 The dataset was cleaned using **Pandas** before performing the RFM analysis.
 
@@ -97,7 +97,7 @@ After preprocessing, the dataset contained **354,321 valid transactions**.
 
 ---
 
-## 📈 RFM Analysis (MySQL)
+##  RFM Analysis (MySQL)
 
 RFM metrics were calculated for each customer:
 
@@ -123,7 +123,7 @@ Customers were then classified into six segments using SQL CASE statements.
 
 ---
 
-## 👥 Customer Segments
+##  Customer Segments
 
 | Segment | Description |
 |---------|-------------|
@@ -136,7 +136,7 @@ Customers were then classified into six segments using SQL CASE statements.
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The SQL output was imported into Power BI to create an interactive dashboard.
 
@@ -161,7 +161,7 @@ Example:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - A total of **3,920 customers** were analysed.
 - **Needs Attention** is the largest customer segment, representing **49%** of all customers.
@@ -176,7 +176,7 @@ These findings highlight opportunities to improve customer retention through tar
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Reward **Champions** with loyalty programmes and exclusive offers.
 - Re-engage **Needs Attention** customers through personalised marketing campaigns.
@@ -187,7 +187,7 @@ These findings highlight opportunities to improve customer retention through tar
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 RFM-Customer-Segmentation-Analysis
@@ -211,7 +211,7 @@ RFM-Customer-Segmentation-Analysis
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -227,7 +227,7 @@ RFM-Customer-Segmentation-Analysis
 
 ---
 
-## 📝 Medium Article
+##  Medium Article
 
 Read the complete project walkthrough here:
 
@@ -237,7 +237,7 @@ Read the complete project walkthrough here:
 
 ## 👩‍💻 About Me
 
-I'm a Business Analytics graduate with experience in **Business Analysis, SQL, Python, Power BI, and Data Visualization**, passionate about transforming data into meaningful business insights.
+I'm a Business Analytics graduate with experience in **Business Analysis, Advanced MS Excel, SQL, Python, Power BI, and Data Visualization**, passionate about transforming data into meaningful business insights.
 
 📧 LinkedIn: *(Add your LinkedIn URL)*
 
