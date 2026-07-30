@@ -70,7 +70,7 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ##  Project Architecture
 
-> *(Insert your Project Architecture image here)*
+> images/Project_Architecture.png
 
 Example:
 
