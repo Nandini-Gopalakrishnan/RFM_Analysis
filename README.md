@@ -73,7 +73,7 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 ```markdown
 ![Project Architecture](images/RFM_Project_Architecture.png)
 ```
-
+<img src="images/RFM_Project_Architecture.png" width="900">
 ---
 
 ##  Data Cleaning (Python)
