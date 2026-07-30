@@ -175,30 +175,6 @@ These findings highlight opportunities to improve customer retention through tar
 
 ---
 
-##  Repository Structure
-
-```
-RFM-Customer-Segmentation-Analysis
-│
-├── data/
-│
-├── notebooks/
-│   └── Data_Cleaning_RFM.ipynb
-│
-├── sql/
-│   └── RFM_Analysis.sql
-│
-├── dashboard/
-│   ├── Customer_Segmentation.pbix
-│   └── Dashboard.png
-│
-├── images/
-│
-└── README.md
-```
-
----
-
 ##  Skills Demonstrated
 
 - Data Cleaning
