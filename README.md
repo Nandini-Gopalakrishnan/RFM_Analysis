@@ -70,7 +70,7 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ##  Project Architecture
 
-> images/Project_Architecture.png
+> images/RFM_Project_Architecture.png
 
 Example:
 
