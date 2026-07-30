@@ -195,7 +195,7 @@ These findings highlight opportunities to improve customer retention through tar
 
 Read the complete project walkthrough here:
 
-**(Add your Medium article link after publishing.)**
+https://medium.com/@nandini.gopalakrishnan98/customer-segmentation-using-rfm-analysis-with-python-mysql-and-power-bi-81c202d66574?postPublishedType=initial
 
 ---
 
