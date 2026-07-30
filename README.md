@@ -72,6 +72,8 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 <img src="images/RFM_Project_Architecture.png" width="900">
 
+---
+
 ##  Data Cleaning (Python)
 
 The dataset was cleaned using **Pandas** before performing the RFM analysis.
@@ -144,6 +146,8 @@ The dashboard includes:
 - Customer Purchase Behaviour Analysis
 
 <img src="images/Dashboard_Screenshot.png" width="900">
+
+---
 
 ##  Key Insights
 
@@ -223,9 +227,9 @@ Read the complete project walkthrough here:
 
 I'm a Business Analytics graduate with experience in **Business Analysis, Advanced MS Excel, SQL, Python, Power BI, and Data Visualization**, passionate about transforming data into meaningful business insights.
 
-📧 LinkedIn: *(Add your LinkedIn URL)*
+📧 LinkedIn: https://www.linkedin.com/in/nandinigopal/
 
-💻 GitHub: *(Add your GitHub Profile URL)*
+💻 GitHub: https://github.com/Nandini-Gopalakrishnan
 
 ---
 
