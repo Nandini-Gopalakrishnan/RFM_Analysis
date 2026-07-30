@@ -70,12 +70,8 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ##  Project Architecture
 
-> images/RFM_Project_Architecture.png
-
-Example:
-
 ```markdown
-![Project Architecture](images/Project_Architecture.png)
+![Project Architecture](images/RFM_Project_Architecture.png)
 ```
 
 ---
@@ -151,12 +147,8 @@ The dashboard includes:
 - Top 10 Highest Spending Customers
 - Customer Purchase Behaviour Analysis
 
-> *(Insert Dashboard Screenshot here)*
-
-Example:
-
 ```markdown
-![Dashboard](dashboard/Dashboard.png)
+![Dashboard](images/Dashboard_Screenshot.png)
 ```
 
 ---
