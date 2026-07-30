@@ -70,11 +70,7 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ##  Project Architecture
 
-```markdown
-![Project Architecture](images/RFM_Project_Architecture.png)
-```
 <img src="images/RFM_Project_Architecture.png" width="900">
----
 
 ##  Data Cleaning (Python)
 
@@ -147,11 +143,7 @@ The dashboard includes:
 - Top 10 Highest Spending Customers
 - Customer Purchase Behaviour Analysis
 
-```markdown
-![Dashboard](images/Dashboard_Screenshot.png)
-```
-
----
+<img src="images/Dashboard_Screenshot.png" width="900">
 
 ##  Key Insights
 
